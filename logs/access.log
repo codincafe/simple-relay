@@ -1,0 +1,57 @@
+[2019-12-11T01:11:56.940] [INFO] info - UI started on Port 3333
+[2019-12-11T01:12:31.011] [DEBUG] access - ::1 - - "GET / HTTP/1.1" 200 2618 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+[2019-12-11T01:12:32.200] [DEBUG] access - ::1 - - "GET /css/sb-admin.css HTTP/1.1" 200 12302 "http://localhost:3333/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+[2019-12-11T01:12:32.202] [DEBUG] access - ::1 - - "GET /vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 200 31000 "http://localhost:3333/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+[2019-12-11T01:12:32.204] [DEBUG] access - ::1 - - "GET /vendor/jquery/jquery.min.js HTTP/1.1" 200 86659 "http://localhost:3333/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+[2019-12-11T01:12:32.207] [DEBUG] access - ::1 - - "GET /vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 200 69453 "http://localhost:3333/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+[2019-12-11T01:12:32.213] [DEBUG] access - ::1 - - "GET /vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 200 127343 "http://localhost:3333/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+[2019-12-11T01:13:13.830] [INFO] info - UI started on Port 3333
+[2019-12-11T01:13:16.876] [INFO] info - UI started on Port 3333
+[2019-12-11T01:14:15.555] [INFO] info - UI started on Port 3333
+[2019-12-11T01:14:36.133] [INFO] info - UI started on Port 3333
+[2019-12-11T01:15:24.311] [DEBUG] access - ::1 - - "POST /api HTTP/1.1" 500 1329 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+[2019-12-11T01:15:34.851] [INFO] info - UI started on Port 3333
+[2019-12-11T01:15:37.362] [DEBUG] access - ::1 - - "POST /api HTTP/1.1" 500 3052 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+[2019-12-11T01:16:16.844] [INFO] info - UI started on Port 3333
+[2019-12-11T01:16:20.075] [DEBUG] access - ::1 - - "POST /api HTTP/1.1" 500 1319 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+[2019-12-11T01:16:34.651] [INFO] info - UI started on Port 3333
+[2019-12-11T01:16:36.896] [DEBUG] access - ::1 - - "POST /api HTTP/1.1" 404 143 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+[2019-12-11T01:17:18.881] [INFO] info - UI started on Port 3333
+[2019-12-11T01:17:22.504] [DEBUG] access - ::1 - - "GET /api HTTP/1.1" 404 142 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+[2019-12-11T01:17:28.525] [DEBUG] access - ::1 - - "POST /api HTTP/1.1" 404 143 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+[2019-12-11T01:17:57.647] [INFO] info - UI started on Port 3333
+[2019-12-11T01:19:07.676] [DEBUG] access - ::1 - - "POST /api HTTP/1.1" 404 143 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+[2019-12-11T01:19:24.579] [INFO] info - UI started on Port 3333
+[2019-12-11T01:19:35.440] [DEBUG] access - ::1 - - "GET / HTTP/1.1" 500 1394 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+[2019-12-11T01:20:39.223] [INFO] info - UI started on Port 3333
+[2019-12-11T01:21:20.930] [INFO] info - UI started on Port 3333
+[2019-12-11T01:21:36.820] [INFO] info - UI started on Port 3333
+[2019-12-11T01:21:47.291] [INFO] info - UI started on Port 3333
+[2019-12-11T01:21:57.583] [INFO] info - UI started on Port 3333
+[2019-12-11T01:22:19.659] [INFO] info - UI started on Port 3333
+[2019-12-11T01:23:24.896] [INFO] info - UI started on Port 3333
+[2019-12-11T01:23:39.482] [INFO] info - UI started on Port 3333
+[2019-12-11T01:23:47.063] [DEBUG] access - ::1 - - "POST /api HTTP/1.1" 500 1175 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+[2019-12-11T01:23:53.261] [INFO] info - UI started on Port 3333
+[2019-12-11T01:23:55.014] [DEBUG] access - ::1 - - "POST /api HTTP/1.1" 500 1175 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+[2019-12-11T01:24:23.798] [INFO] info - UI started on Port 3333
+[2019-12-11T01:24:39.171] [INFO] info - UI started on Port 3333
+[2019-12-11T01:27:35.337] [INFO] info - UI started on Port 3333
+[2019-12-11T01:27:40.502] [DEBUG] access - ::1 - - "POST /api HTTP/1.1" 404 143 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+[2019-12-11T01:27:49.342] [DEBUG] access - ::1 - - "POST /api HTTP/1.1" 404 143 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+[2019-12-11T01:28:07.883] [INFO] info - UI started on Port 3333
+[2019-12-11T01:28:19.612] [INFO] info - UI started on Port 3333
+[2019-12-11T01:28:23.338] [INFO] info - UI started on Port 3333
+[2019-12-11T01:28:29.314] [DEBUG] access - ::1 - - "POST /api HTTP/1.1" 200 16 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+[2019-12-11T01:45:30.300] [INFO] info - UI started on Port 3333
+[2019-12-11T15:39:05.861] [INFO] info - UI started on Port 3333
+[2019-12-11T15:40:58.629] [DEBUG] access - ::1 - - "POST /api HTTP/1.1" 200 16 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+[2019-12-11T15:42:17.972] [DEBUG] access - ::ffff:192.168.0.167 - - "POST /api HTTP/1.1" 200 16 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36"
+[2019-12-11T15:44:38.754] [DEBUG] access - ::ffff:192.168.0.163 - - "POST /api HTTP/1.1" 200 16 "" "okhttp/3.12.1"
+[2019-12-11T15:45:05.780] [DEBUG] access - ::ffff:192.168.0.163 - - "POST /api HTTP/1.1" 200 16 "" "okhttp/3.12.1"
+[2019-12-11T15:45:08.822] [DEBUG] access - ::ffff:192.168.0.163 - - "POST /api HTTP/1.1" 200 16 "" "okhttp/3.12.1"
+[2019-12-11T15:45:12.391] [DEBUG] access - ::ffff:192.168.0.163 - - "POST /api HTTP/1.1" 200 16 "" "okhttp/3.12.1"
+[2019-12-11T15:45:15.052] [DEBUG] access - ::ffff:192.168.0.163 - - "POST /api HTTP/1.1" 200 16 "" "okhttp/3.12.1"
+[2019-12-11T15:45:17.978] [DEBUG] access - ::ffff:192.168.0.163 - - "POST /api HTTP/1.1" 200 16 "" "okhttp/3.12.1"
+[2019-12-11T15:50:24.608] [DEBUG] access - ::ffff:192.168.0.163 - - "POST /api HTTP/1.1" 200 16 "" "okhttp/3.12.1"
+[2019-12-11T15:50:29.591] [DEBUG] access - ::ffff:192.168.0.163 - - "POST /api HTTP/1.1" 200 16 "" "okhttp/3.12.1"

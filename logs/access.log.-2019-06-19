@@ -1,0 +1,16 @@
+[2019-06-19T01:38:36.028] [INFO] info - UI started on Port 3333
+[2019-06-19T01:38:40.749] [INFO] info - UI started on Port 3333
+[2019-06-19T01:39:07.287] [INFO] info - UI started on Port 3333
+[2019-06-19T01:39:16.634] [INFO] info - UI started on Port 3333
+[2019-06-19T01:44:48.996] [INFO] info - UI started on Port 3333
+[2019-06-19T02:01:04.377] [INFO] info - UI started on Port 3333
+[2019-06-19T02:01:07.836] [DEBUG] access - ::1 - - "GET / HTTP/1.1" 200 2618 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+[2019-06-19T02:01:07.862] [DEBUG] access - ::1 - - "GET /vendor/font-awesome/css/font-awesome.min.css HTTP/1.1" 304 - "http://localhost:3333/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+[2019-06-19T02:01:07.866] [DEBUG] access - ::1 - - "GET /vendor/bootstrap/css/bootstrap.min.css HTTP/1.1" 304 - "http://localhost:3333/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+[2019-06-19T02:01:07.874] [DEBUG] access - ::1 - - "GET /css/sb-admin.css HTTP/1.1" 304 - "http://localhost:3333/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+[2019-06-19T02:01:07.875] [DEBUG] access - ::1 - - "GET /vendor/jquery/jquery.min.js HTTP/1.1" 304 - "http://localhost:3333/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+[2019-06-19T02:01:07.883] [DEBUG] access - ::1 - - "GET /vendor/bootstrap/js/bootstrap.bundle.min.js HTTP/1.1" 304 - "http://localhost:3333/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+[2019-06-19T02:01:21.728] [INFO] info - UI started on Port 3333
+[2019-06-19T02:01:22.378] [DEBUG] access - ::1 - - "GET / HTTP/1.1" 500 2780 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
+[2019-06-19T02:01:26.756] [INFO] info - UI started on Port 3333
+[2019-06-19T02:01:34.881] [DEBUG] access - ::1 - - "GET / HTTP/1.1" 500 2780 "" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36"
