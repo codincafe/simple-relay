@@ -10,8 +10,8 @@ router.post('/', (req, res, next) => {
     console.log(pin)
     console.log(status)
 
-    // var LED = new Gpio(pin, 'out');
-    // LED.writeSync(status);
+    var LED = new Gpio(pin, 'out');
+    LED.writeSync(status);
 
     res.send({ success: true })
 });

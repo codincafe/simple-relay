@@ -7,7 +7,19 @@
 /***** Custom Requires *****/
 /********************************************************/
 const config = require('./config');
-const logger = require('./logger');
+//const logger = require('./logger');
+
+const Gpio = require('onoff').Gpio; // Gpio class
+const led = new Gpio(16, 'out');       // Export GPIO17 as an output
+ 
+// Toggle the state of the LED connected to GPIO17 every 200ms
+const iv = setInterval(_ => led.writeSync(led.readSync() ^ 1), 200);
+ 
+// Stop blinking the LED after 5 seconds
+setTimeout(_ => {
+  clearInterval(iv); // Stop blinking
+  led.unexport();    // Unexport GPIO and free resources
+}, 5000);
 
 /********************************************************/
 /***** Node Modules *****/
@@ -87,7 +99,7 @@ app.set('view engine', 'html');
 /***** Configure Middlewares *****/
 /********************************************************/
 app.use(favicon(__dirname + '/public/images/favicon.ico'));
-app.use(logger.express);
+//app.use(logger.express);
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
@@ -210,7 +222,7 @@ if (config.app.env !== 'development') {
 } else {
     app.use((err, req, res, next) => {
         res.status(500).send(err.stack)
-        logger.error.error(err.stack)
+        //logger.error.error(err.stack)
         next()
     })
 }
@@ -220,5 +232,6 @@ if (config.app.env !== 'development') {
 /********************************************************/
 app.set('port', process.env.PORT || config.app.port);
 app.listen(app.get('port'), () => {
-    logger.info.info("UI started on Port " + app.get('port'));
+	console.log('Server Start')
+    //logger.info.info("UI started on Port " + app.get('port'));
 });
